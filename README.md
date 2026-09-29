@@ -1,6 +1,6 @@
- <!-- ============ ANIMATED BANNER ============ -->
+<!-- ============ ANIMATED BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=SATYAJIT%20GOCHHAYAT&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20B.Tech%20CSE%20'28&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=SATYAJIT%20GOCHHAYAT&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20B.Tech%20CSE%20'28&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <!-- ============ TYPING ANIMATION ============ -->
@@ -31,7 +31,7 @@
 ```js
 const satyajit = {
   name: "Satyajit Gochhayat",
-  role: "Full Stack Developer",
+  role: "Java Full Stack Developer",
   education: "B.Tech CSE @ GITA Autonomous College (2025 – 2028)",
   cgpa: "8.27 / 10",
   primaryStack: ["Java", "Spring Boot", "React", "Node.js", "MongoDB"],
