@@ -14,7 +14,7 @@
   <a href="mailto:gochhayats165@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a>
   <a href="https://www.linkedin.com/in/satyajitgochhayat/"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
   <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-0d0221?style=for-the-badge&logo=x&logoColor=FF00E5" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-0d0221?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
+  <a href="https://www.instagram.com/31satyajit"><img src="https://img.shields.io/badge/INSTAGRAM-0d0221?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
   <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/FACEBOOK-0d0221?style=for-the-badge&logo=facebook&logoColor=00F0FF" /></a>
 </p>
 
@@ -34,6 +34,7 @@ const satyajit = {
   role: "Java Full Stack Developer",
   education: "B.Tech CSE @ GITA Autonomous College (2025 – 2028)",
   cgpa: "8.27 / 10",
+  email: "gochhayats165@gmail.com",
   primaryStack: ["Java", "Spring Boot", "React", "Node.js", "MongoDB"],
   currentlyBuilding: "Real-World Full Stack Apps",
   experience: ["Eduskill (Java Full Stack Intern)", "Nextsoft Solution (Full Stack Intern)"],
